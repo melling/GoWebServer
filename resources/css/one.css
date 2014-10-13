@@ -1,0 +1,10 @@
+.center {
+  text-align: center;
+}
+
+.code {
+	background-color: #DDD;
+	margin: 20pt;
+	font-size: 18pt;
+  font-style: italic;
+}
